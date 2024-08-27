@@ -2,7 +2,7 @@
 
 Meu nome é Vitor,
 
-Estou estudando prograamação na Alura
+Estou estudando programação na Alura
 
 
 
