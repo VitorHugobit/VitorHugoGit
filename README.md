@@ -7,4 +7,4 @@ Estou estudando programação na Alura
 
 
 
-![](![image](https://github.com/user-attachments/assets/ea178066-5443-4d52-8dcc-a980fda111fe)
+![image](https://github.com/user-attachments/assets/ea178066-5443-4d52-8dcc-a980fda111fe)
